@@ -1,0 +1,1 @@
+# gradle-corporate-naming-conventions
